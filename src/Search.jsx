@@ -18,7 +18,7 @@ export default function Search(){
         pressure: 200,
         windSpeed:30
     });
-    const API_URL="http://api.openweathermap.org/data/2.5/weather";
+    const API_URL="https://api.openweathermap.org/data/2.5/weather";
     const API_KEY="ca66079b94545e19941a218f91fc4141";
     let apiRequest= async (city)=>{
         let response=await fetch(`${API_URL}?q=${city}&appid=${API_KEY}&units=metric`);
