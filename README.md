@@ -4,6 +4,13 @@ A simple **React + Vite** weather application that fetches real-time weather dat
 Currently in development and continuously evolving 🚀
 
 ---
+# Project Timeline 
+
+✅(design)───✅(frontend)───✅(deploy on GitHub)───🟡(Adding more functionalities)───🔜───🔜───🔜
+
+Track the progress of my Weather App project with this **visual roadmap**. ✅ = completed, 🟡 = current, 🔜 = upcoming.
+
+---
 
 ## 🛠️ Tools & Technologies
 - **React + Vite**  
