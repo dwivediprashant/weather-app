@@ -1,8 +1,11 @@
 <p align="center">
-  <img src="https://vitejs.dev/logo.svg" alt="Vite Logo" width="80" height="80" style="border-radius:50%;margin:10px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="80" height="80" style="border-radius:50%;margin:10px;">
-  <img src="https://openweathermap.org/themes/openweathermap/assets/img/logo_white_cropped.png" alt="OpenWeather Logo" width="160" height="80" style="border-radius:20px;margin:10px;">
-  <img src="https://mui.com/static/logo.png" alt="Material UI Logo" width="80" height="80" style="border-radius:50%;margin:10px;">
+  <img src="https://vitejs.dev/logo.svg" alt="Vite Logo" width="80" height="80">
+  <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/2795.png" alt="Plus" width="60" height="60" >
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="80" height="80">
+  <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/2795.png" alt="Plus" width="60" height="60">
+  <img src="https://openweathermap.org/themes/openweathermap/assets/img/logo_white_cropped.png" alt="OpenWeather Logo" width="160" height="80">
+  <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/2795.png" alt="Plus" width="60" height="60">
+  <img src="https://mui.com/static/logo.png" alt="Material UI Logo" width="80" height="80">
 </p>
 
 # 🌦️ Weather App 
